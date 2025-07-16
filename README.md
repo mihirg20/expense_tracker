@@ -1,16 +1,52 @@
-# expense_tracker
+# EXPENSE TRACKER
 
-A new Flutter project.
+**Transform Spending, Empower Your Financial Future**
+
+![Best commit april 2024](https://img.shields.io/badge/Best_commit-April_2024-brightgreen)
+
+![C++35.9%](https://img.shields.io/badge/C++-35.9%25-blue)
+
+## Build with the tools and technologies:
+
+- JSON
+- Markdown
+- Swift
+- Gradle
+- Dart
+- C++
+- XML
+- Flutter
+- CMake
+- Kotlin
+- YAML
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Testing](#testing)
+
+## Overview
+
+[Brief description of your Expense Tracker application goes here. Explain what it does and its main features.]
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+[List any software or tools that need to be installed before using your application.]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Step-by-step instructions on how to install your application.]
+
+## Usage
+
+[Instructions on how to use your application. Include examples if possible.]
+
+## Testing
+
+[Information about how to run tests for your application.]
